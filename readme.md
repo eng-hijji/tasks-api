@@ -1,0 +1,1 @@
+a project to practice the routes in an api and dealing with nesting and query params
